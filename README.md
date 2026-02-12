@@ -8,4 +8,4 @@ A simple **Java grades calculator** I made for my college modules to quickly wor
 
 ## Tech
 - **Java**
-- Files in this repo include `GradeCalculator.java` (and compiled `.class` files). :contentReference[oaicite:2]{index=2}
+- Files in this repo include `GradeCalculator.java`
